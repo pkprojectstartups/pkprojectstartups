@@ -64,5 +64,5 @@ Every Investor List and the Funded Startups dataset export as CSV and Excel via 
 
 - VCList Network: https://vclistnetwork.com
 - ProjectStartups: https://projectstartups.com
-- LinkedIn: *(add link)*
-- Twitter/X: *(add link)*
+- LinkedIn: https://www.linkedin.com/in/projectstartups/
+- Twitter/X: https://x.com/projectstartups
